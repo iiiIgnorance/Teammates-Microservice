@@ -15,5 +15,3 @@
   - GET: list all projects the student is working on
   - POST: modify/add a project in the student's todo list
   - DELETE: remove a project from the student's todo list
-- /students/search [not implemented yet]
-  - POST: search students with the given query/filter
